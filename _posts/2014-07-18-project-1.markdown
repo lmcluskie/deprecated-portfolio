@@ -1,11 +1,10 @@
 ---
 layout: default
+title: NYC Taxi Fares - Analysis and Modelling
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+img: taxi.png
+img1: taxi1.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+addy: https://www.kaggle.com/deepdivelm/nyc-taxi-fares-eda-modelling-2-93
+description: This notebook explores a dataset of taxi trips in New York City. Data visualisation is used to display insights, and an ensemble model is created using LightGBM and scikit-learn which predicts the fare paid for trips it has not seen. This model reduces loss, measured by root mean square error, by 70% relative to naive estimation of the mean fare.
 ---
