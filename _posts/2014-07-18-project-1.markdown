@@ -6,5 +6,5 @@ img: taxi.png
 img1: taxi1.png
 alt: image-alt
 addy: https://www.kaggle.com/deepdivelm/nyc-taxi-fares-eda-modelling-2-93
-description: This notebook explores a dataset of taxi trips in New York City. Data visualisation is used to display insights, and an ensemble model is created using LightGBM and scikit-learn which predicts the fare paid for trips it has not seen. This model reduces loss, measured by root mean square error, by 70% relative to naive estimation of the mean fare.
+description: This notebook explores a dataset of taxi trips in New York City. Data visualisation is used to display insights, and an ensemble model is created using LightGBM and scikit-learn which predicts the fare paid for trips it has not seen. This model reduces loss, measured by root mean square error on a test set, by 70% relative to naive estimation of the training set's mean fare.
 ---

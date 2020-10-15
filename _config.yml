@@ -4,7 +4,7 @@ email: mcluskdata@gmail.com
 url: https://github.com/lmcluskie/lmcluskie.github.io
 description: "Data science portfolio and contact form for Luke Mcluskie."
 keywords: "data, data analysis, data science, statistics, machine learning, regression, classification, portfolio, projects, python, kaggle, hire"
-skills: "Passionate about the practical use of statistics and data to make insights, communicate information and provide solutions. Studied economics and statistics at Victoria University of Wellington"
+skills: "Passionate about the practical use of statistics and data to make insights, communicate information and create solutions. Studied economics and statistics at Victoria University of Wellington."
 meta_author: Luke Mcluskie
 
 # Google webmaster tools
@@ -47,9 +47,6 @@ social:
 address:
   - line: Wellington
   - line: New Zealand
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
