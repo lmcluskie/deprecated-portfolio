@@ -6,5 +6,5 @@ img: FeatEngArticle.png
 img1: FeatEngArticle1.png
 alt: image-alt
 addy: https://medium.com/@luke.mcluskie/feature-engineering-considerations-based-on-model-choice-part-1-980f43ae6ae
-description: "In this article I explore a variety of feature engineering techniques that can be used before fitting a model using a supervised learning algorithm. Attention is paid to algorithm-specific considerations that should be kept in mind when using some popular approaches: nearest neighbours, linear models and tree-based models."
+description: "In this article I explore a variety of feature engineering techniques that can be used prior to fitting models using supervised learning algorithms. Attention is paid to algorithm-specific considerations that should be kept in mind when using some popular approaches: nearest neighbours, linear models and tree-based models."
 ---

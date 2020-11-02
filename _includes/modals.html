@@ -24,8 +24,14 @@
                                 {% endif %}
                             </ul>
                             {% if post.description %}
-                                <p>{{ post.description }}</p>
-                            {% endif %}
+                                <p>{{ post.description }}
+									{% if post.link1 %}
+										<a href={{ post.link1 }} >{{ post.link1 }}</a>
+									{% endif %}
+								</p>
+								
+							{% endif %}
+							
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>

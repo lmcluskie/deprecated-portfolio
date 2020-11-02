@@ -6,5 +6,6 @@ img: cricket.png
 img1: cricket1.png
 alt: image-alt
 addy: https://github.com/lmcluskie/dash-cricket
-description: This project has two core parts - a data preparation pipeline, and an interactive dashboard. To keep the dashboard information up-to-date, an automated process downloads the necessary data, cleans it, and extracts the needed features. This data then acts as the backend of the dashboard. The dashboard allows the user to visually compare batsmen's test match careers on a wide range of measures. A link to the dashboard is available in the Github repository readme.
+link1: http://burningtin-cricket.herokuapp.com
+description: "This project has two core parts - a data preparation pipeline, and an interactive dashboard. To keep the dashboard information up-to-date, an automated process downloads the necessary data, cleans it, and extracts the needed features. This data then acts as the backend of the dashboard. The dashboard allows the user to visually compare batsmen's test match careers on a wide range of measures. Direct link to the dashboard:"
 ---
